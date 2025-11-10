@@ -1,56 +1,65 @@
 
 🏠 Home Page
-Executive summary with comprehensive business health check
 
-Navigation hub to all departmental views
+Executive business health summary.
 
-Report metadata: Refresh dates and data currency
+Central navigation to all departmental views.
 
-Unified business intelligence across all functions
+Report metadata (refresh dates).
+
 
 💰 Finance View
-$3.74B Net Sales performance tracking
 
-Profit & Loss Statement with detailed line-item analysis
+$3.74B Net Sales tracking.
 
-Gross Margin: 38.08% (vs Benchmark: 38.34%)
+P&L Statement with detailed line-items.
 
-Net Profit %: -13.98% (improving vs Benchmark: -14.19%)
+Gross Margin: 38.08% (Benchmark: 38.34%).
 
-Regional and segment-wise performance breakdown
+Net Profit %: -13.98% (Improving vs Benchmark: -14.19%).
 
-Time-series analysis of sales performance
+Regional and segment performance breakdown.
 
 🏢 Executive View
-Provides a high-level overview of overall company performance, integrating financial and operational metrics to track profitability, growth, and efficiency.
 
-**Key Insights:**
-- **Net Sales, Gross Margin, and Net Profit %** with comparisons to benchmark and last year (LY).  
-- **Revenue Breakdown** by Division and Channel.  
-- **Yearly Trends** in Revenue, Gross Margin %, Net Profit %, and Market Share %.  
-- **Market Share Analysis** vs Competitors.  
-- **Top 5 Customers & Products by Revenue.**
+High-level overview of company performance.
 
+Key Insights:
 
-### 2. 📈 Marketing View
-**Purpose:**  
-Focuses on **product, region, and customer-level performance** to identify profitable segments, weak markets, and operational inefficiencies.
+Net Sales, GM, and Net Profit % vs. Benchmark & Last Year.
 
-**Key Insights:**
-- **Product Performance:** Net Sales, Gross Margin, and Net Profit % by Segment.  
-- **Regional Breakdown:** Performance across APAC, EU, LATAM, and NA.  
-- **Performance Matrix:** Visual comparison of divisions by Gross Margin % and Sales Volume.  
-- **Unit Economics:** Breakdown of cost structures — Gross Margin vs COGS vs Operational Expenses.  
+Revenue by Division & Channel.
 
+Trends: Revenue, GM%, Net Profit %, Market Share %.
 
-### 3. ⚙️ Supply Chain View
-**File:** `Supply Chain View.png`
+Market Share vs. Competitors.
 
-**Purpose:**  
-Monitors **forecast accuracy**, **inventory risks**, and **customer performance**, ensuring supply chain stability and demand planning efficiency.
+Top 5 Customers & Products.
 
-**Key Insights:**
-- **Forecast Accuracy vs Last Year.**  
-- **Net & Absolute Error Trends** over time.  
-- **Customer-Level Forecast Performance** with risk tagging (EI = Excess Inventory, OOS = Out of Stock).  
-- **Product-Level Accuracy** and Profitability correlation.  
+📈 Marketing View
+
+Purpose: Identify profitable segments and weak markets.
+
+Key Insights:
+
+Product Performance by Segment.
+
+Regional Breakdown (APAC, EU, LATAM, NA).
+
+Performance Matrix: Divisions by GM% & Sales.
+
+Unit Economics: GM vs. COGS vs. OpEx.
+
+⚙️ Supply Chain View
+
+Purpose: Monitor forecast accuracy and inventory risks.
+
+Key Insights:
+
+Forecast Accuracy vs. Last Year.
+
+Net & Absolute Error Trends.
+
+Customer-Level Forecast Performance with risk tags (EI, OOS).
+
+Product-Level Accuracy & Profitability correlation.
